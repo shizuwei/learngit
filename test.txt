@@ -4,6 +4,7 @@ class Test{
 		
 		System.out.println("Hello,world!");
 		return;
+		git reset --hard HEAD^
 	}
 
 
